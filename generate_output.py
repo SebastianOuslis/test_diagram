@@ -1,3 +1,3 @@
-import process_file
+import math
 
-process_file.import_file()
+math.gcd(2,4)
