@@ -1,3 +1,4 @@
 import math
 
-math.gcd(2,4)
+def print_output():
+    print("test output")
